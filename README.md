@@ -6,7 +6,7 @@ You can add more words in:
 
 >data/words.txt
 
-New words have to uppercase.
+New words have to be uppercase.
 
 Launch **main.rb** to play the game via:
 
